@@ -3,6 +3,8 @@ This is an implementation of the two "Star Wars" tasks for Tikal.
 The project was bootstrapped using `create-react-app` --
 to run, simply run `npm run start` on the command line, open a browser and browse to `localhost:3000` -- you will see both tasks implementations.
 
+The following is the default readme.md content created by `create-react-app`.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

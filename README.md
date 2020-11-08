@@ -1,8 +1,8 @@
 # Tikal Star Wars tasks
 This is an implementation of the two "Star Wars" tasks for Tikal.
-The project was bootstrapped using `create-react-app` --
-to run, first run `npm install` on the command-line to install all dependencies, 
-then run `npm run start` on the command line, open a browser and browse to `localhost:3000` -- you will see both tasks implementations.
+The project was bootstrapped using `create-react-app` -- <br>
+to run, first run: `npm install` on the command-line to install all dependencies, <br>
+then run: `npm run start` on the command line, open a browser and browse to `localhost:3000` -- you will see both tasks implementations.
 
 The following is the default readme.md content created by `create-react-app`.
 

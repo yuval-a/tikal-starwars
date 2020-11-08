@@ -1,0 +1,25 @@
+table {
+  border-collapse: collapse;
+}
+table th, table td {
+  padding: 10px;
+  text-align: left;
+}
+
+.chart-bar {
+  text-align: center;
+  width: 72px;
+  display: inline-block; 
+  margin: 0 28px;
+}
+.chart-bar .bar {
+  width: 70px;
+  background-color: #ddd;
+  border: 1px solid #666;
+  margin: 8px 0 8px;
+  max-height: 800px;
+}
+
+.barchart-container {
+  white-space: nowrap;
+}
